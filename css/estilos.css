@@ -1,0 +1,15 @@
+.div-color-red {
+    background-color: red;
+}
+.div-color-blue {
+    background-color: blue;
+}
+.text-center {
+    text-align: center;
+}
+.p-m-box {
+    margin: 5%;
+}
+.box-curve {
+    border-radius: 45PX;
+}
